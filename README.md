@@ -1,4 +1,10 @@
-### Hi there 👋
+### Olá 1ºD 👋
+Sou o professor Pedro, de Pensamento computacional;
+
+🔭 Gosto da linguagem RGSS (Ruby Game Scripting System);
+
+📫 Meu e-mail de contato é o pedro.assis.bueno@escola.pr.gov.br
+
 
 <!--
 **Askorbico/Askorbico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
