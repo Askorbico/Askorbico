@@ -5,7 +5,7 @@ Sou o professor Pedro, de Pensamento computacional;
 
 📫 Meu e-mail de contato é o pedro.assis.bueno@escola.pr.gov.br
 
-
+![Alt](https://i.pinimg.com/1200x/8f/1c/3f/8f1c3fbc56ce1279c51879722c1cb87e.jpg)
 <!--
 **Askorbico/Askorbico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
