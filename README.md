@@ -19,6 +19,9 @@ https://github.com/Askorbico/Askorbico/assets/145945009/558fec78-5679-4496-9c58-
 
 ![Sol e lua](https://github.com/Askorbico/Askorbico/assets/145945009/16483da3-1b94-48ae-87f7-0e4ae73bc119)
 
+
+📫 Meu e-mail é o pedro.assis.bueno@escola.pr.gov.br
+
 <!--
 **Askorbico/Askorbico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
