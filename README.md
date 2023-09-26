@@ -8,7 +8,10 @@ Sou o professor Pedro, de Pensamento computacional;
 
 🔭 Gosto da linguagem RGSS (Ruby Game Scripting System);
 
+![Alt](https://s2.glbimg.com/lTUhRSG_HLiZm_hnV0PtPVRY1dw=/e.glbimg.com/og/ed/f/original/2016/04/05/2c.jpg)
+
 🌱 Tenho formação em química;
+![2018-05-18-shrek](https://github.com/Askorbico/Askorbico/assets/145945009/f287df26-3192-4d54-ab5a-6d3993a76417)
 
 
 https://github.com/Askorbico/Askorbico/assets/145945009/558fec78-5679-4496-9c58-a5d92898eb14
