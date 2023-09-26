@@ -1,11 +1,24 @@
 ### Olá 1ºD 👋
 Sou o professor Pedro, de Pensamento computacional;
 
+👯 Gosto muito de dançar, tocar instrumentos e também sou aficionado por leitura;
+
+![Dança](https://github.com/Askorbico/Askorbico/assets/145945009/2045b71a-0caa-4b91-a300-4b0240d6ace6)
+
+
 🔭 Gosto da linguagem RGSS (Ruby Game Scripting System);
 
-📫 Meu e-mail de contato é o pedro.assis.bueno@escola.pr.gov.br
+🌱 Tenho formação em química;
 
-![Alt](https://i.pinimg.com/1200x/8f/1c/3f/8f1c3fbc56ce1279c51879722c1cb87e.jpg)
+
+https://github.com/Askorbico/Askorbico/assets/145945009/558fec78-5679-4496-9c58-a5d92898eb14
+
+
+
+🤔 Gosto muito de bichos, tenho 6 gatos e 2 cachorros;
+
+![Sol e lua](https://github.com/Askorbico/Askorbico/assets/145945009/16483da3-1b94-48ae-87f7-0e4ae73bc119)
+
 <!--
 **Askorbico/Askorbico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
