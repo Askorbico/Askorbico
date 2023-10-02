@@ -11,8 +11,11 @@ Sou o professor Pedro, de Pensamento computacional;
 
 🔭 Gosto da linguagem RGSS (Ruby Game Scripting System);
 
+![i-simpson-e1576613952984](https://github.com/Askorbico/Askorbico/assets/145945009/94163a96-a404-4ef6-94ca-e0066a852791)
+
 ![Alt](https://s2.glbimg.com/lTUhRSG_HLiZm_hnV0PtPVRY1dw=/e.glbimg.com/og/ed/f/original/2016/04/05/2c.jpg)
 
+# Olá 1° B
 🌱 Tenho formação em química;
 ![2018-05-18-shrek](https://github.com/Askorbico/Askorbico/assets/145945009/f287df26-3192-4d54-ab5a-6d3993a76417)
 
@@ -24,6 +27,8 @@ https://github.com/Askorbico/Askorbico/assets/145945009/558fec78-5679-4496-9c58-
 🤔 Gosto muito de bichos, tenho 6 gatos e 2 cachorros;
 
 ![Sol e lua](https://github.com/Askorbico/Askorbico/assets/145945009/16483da3-1b94-48ae-87f7-0e4ae73bc119)
+
+![Alt](https://upload.wikimedia.org/wikipedia/commons/9/9d/Mfc_monocromia_positiva.png)
 
 
 📫 Meu e-mail é o pedro.assis.bueno@escola.pr.gov.br
