@@ -35,6 +35,12 @@ https://github.com/Askorbico/Askorbico/assets/145945009/558fec78-5679-4496-9c58-
 
 ![txpaovnkindmzxhwcvj2l5degzjy](https://github.com/Askorbico/Askorbico/assets/145945009/2966c415-32f6-4cca-b208-4894bfe99af8)
 
+# 1°C
+
+muita alegria 😄
+
+![Alt](https://paraiba.pb.gov.br/noticias/em-comemoracao-ao-dia-do-palhaco-projeto-interatos-traz-espetaculo-de-circo-com-los-iranzi/los-iranzi.png/@@images/2774b138-f4b7-41da-9527-32eda8978390.png)
+
 
 <!--
 **Askorbico/Askorbico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
