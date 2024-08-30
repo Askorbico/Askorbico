@@ -41,6 +41,17 @@ muita alegria 😄
 
 ![Alt](https://paraiba.pb.gov.br/noticias/em-comemoracao-ao-dia-do-palhaco-projeto-interatos-traz-espetaculo-de-circo-com-los-iranzi/los-iranzi.png/@@images/2774b138-f4b7-41da-9527-32eda8978390.png)
 
+# O melhor 1°
+
+me sinto feliz ao entrar nesta maravilhosa sala; 🤨 
+
+pois esta é a melhor turma na qual eu ja entrei para dar aula, 🤥
+
+sou grato por ter me tornado professor só para dar aula para eles 🤡
+
+![Alt](https://blog.jaleko.com.br/wp-content/uploads/2019/03/CAPS.png)
+
+![Alt](https://img.elo7.com.br/product/zoom/3CFB5F5/painel-barbie-dreamhouse-03-2-00x1-50-barbie.jpg)
 
 <!--
 **Askorbico/Askorbico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
