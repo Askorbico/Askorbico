@@ -1,3 +1,14 @@
+## 1°C
+
+Adrenoleucodistrofia
+
+![Alt](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Kodaki_fuji_frm_shojinko.jpg/1200px-Kodaki_fuji_frm_shojinko.jpg)
+
+![Alt](https://hotelmt.com.br/wp-content/uploads/2018/06/206360-9-curiosidades-sobre-o-pantanal-que-voce-precisa-conhecer.jpg)
+
+![nationalgeographic2710344](https://github.com/user-attachments/assets/81431f13-b1fa-495b-be88-da33b83b5fa2)
+
+
 ### Olá 1ºD 👋
 Sou o professor Pedro, de Pensamento computacional;
 
@@ -52,6 +63,7 @@ sou grato por ter me tornado professor só para dar aula para eles 🤡
 ![Alt](https://blog.jaleko.com.br/wp-content/uploads/2019/03/CAPS.png)
 
 ![Alt](https://img.elo7.com.br/product/zoom/3CFB5F5/painel-barbie-dreamhouse-03-2-00x1-50-barbie.jpg)
+
 
 <!--
 **Askorbico/Askorbico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
