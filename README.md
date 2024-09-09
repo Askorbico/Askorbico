@@ -2,7 +2,7 @@
 
 Adrenoleucodistrofia
 
-diletinaminolfenildimetilpirazolona
+diletinaminolfenildimetilpirazolona.
 
 ![Alt](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Kodaki_fuji_frm_shojinko.jpg/1200px-Kodaki_fuji_frm_shojinko.jpg)
 
