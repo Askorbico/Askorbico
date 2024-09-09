@@ -2,6 +2,8 @@
 
 Adrenoleucodistrofia
 
+diletinaminolfenildimetilpirazolona
+
 ![Alt](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Kodaki_fuji_frm_shojinko.jpg/1200px-Kodaki_fuji_frm_shojinko.jpg)
 
 ![Alt](https://hotelmt.com.br/wp-content/uploads/2018/06/206360-9-curiosidades-sobre-o-pantanal-que-voce-precisa-conhecer.jpg)
